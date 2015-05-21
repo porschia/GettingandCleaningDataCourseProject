@@ -1,4 +1,4 @@
-                                 # READ ME
+# READ ME
                   
       The purpose of the analysis.R script is to walk the reader through the process
       of taking the cluttered data from the Samsung accelerometers that is provided at
